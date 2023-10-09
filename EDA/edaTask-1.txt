@@ -1,0 +1,10 @@
+1. Write a py script to read yolo txt files and find the below 
+    a) Total class counts .
+    b) Class instances per image
+    c) Class groupped occurances
+    d) Generate a graph to depict labelled classes
+        1) Class counts
+        2) Train/test/val counts
+        3) EDA 
+    e) Average bbox area for each class
+    f) A method to find outliers (based on bbox sizes)

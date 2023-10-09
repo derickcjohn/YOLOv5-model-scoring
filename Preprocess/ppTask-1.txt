@@ -1,0 +1,8 @@
+
+1. Write a py script to preprocess data.
+    a) A method to remove images/txt that do not have any labelling.
+    b) A method to replace labelled classes.
+    c) A method to split(train/test/val) files.
+    d) A method to merge all the split files into one single folder for training.
+    e) A method to fetch files for a combination of class appearnces.
+    g) A method to generate a json with data class names and its file names.

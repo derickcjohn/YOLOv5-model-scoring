@@ -1,0 +1,5 @@
+*.pyc
+Tested models result csv/*
+Trained models/*
+Test images/*
+classes.txt
