@@ -22,7 +22,7 @@ git push -uf origin main
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/ayruz/duk-2023/-/settings/integrations)
+- [ ] [Set up project integrations](https://github.com/derickcjohn/YOLOv5-model-scoring.git) 
 
 ## Collaborate with your team
 
